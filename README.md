@@ -1,3 +1,4 @@
+![Miku Icon](./docs/icon.png)
 # Miku Injector 💙
 
 Miku Injector is a DLL injector with a graphical user interface themed around Hatsune Miku, developed using WPF.  
